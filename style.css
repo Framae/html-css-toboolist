@@ -50,8 +50,43 @@ body {
     position: absolute;
     top: 182px;
     left: 20%;
-    width: 62%;
-    line-height: 200px;
+    width: 61%;
+    height: 400px;
+    line-height: 29px;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
+}
+
+.corpo {
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.special {
+    color: white;
+    font-size: small;
+    padding: 4px;
+    border-radius: 10px;
+}
+.special.editorial {
+    background-color: turquoise;
+}
+
+.special.Q1goals {
+    background-color: orange;
+}
+
+.special.recruiting {
+    background-color: orchid;
+}
+
+.special.mobile {
+    background-color: palegreen;
+}
+.special.website {
+    background-color: palevioletred;
+}
+
+.special.sales {
+    background-color: purple;
 }
