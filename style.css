@@ -90,3 +90,16 @@ body {
 .special.sales {
     background-color: purple;
 }
+
+.spunta {
+    color: rgb(41, 214, 18);
+    background-color: transparent;
+    border: 1px solid rgb(41, 214, 18);
+    border-radius: 50%;
+}
+
+.simbolox {
+    background-color: transparent;
+    border: 1px solid red;
+    border-radius: 50%;
+}
